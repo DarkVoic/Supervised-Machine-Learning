@@ -16,5 +16,4 @@ World Bank. (2018). World development indicators: GDP (current US$) by country:1
 
 World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
 
-Inspiration
-Suicide Prevention."
+Inspiração : Prevenção de suicídio.
